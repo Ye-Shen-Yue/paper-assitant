@@ -343,7 +343,7 @@ MIT License
 
 ## 联系方式
 
-- 项目地址：https://github.com/yourusername/scholarlens
+- 项目地址：https://github.com/Ye-Shen-Yue/paper-assitant/edit/master
 - 问题反馈：请提交GitHub Issue
 
 ---
